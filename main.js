@@ -10,7 +10,7 @@
 
         }
         else{
-            var risultato = ("mail non trovata registrarsi prego")
+            var risultato = ("mail non trovata registrarsi")
         }
         let print = document.getElementById("span")
         print.innerHTML =`${risultato}`
